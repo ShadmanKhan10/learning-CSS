@@ -4,9 +4,11 @@ import "./App.css";
 function App() {
   return (
     <>
-      <section className="section-style">
-        <h1>Learning CSs</h1>
-      </section>
+      <div className="main-container">
+        <div className="parent-recommended">
+          <p className="p-tag">Remommended</p>
+        </div>
+      </div>
     </>
   );
 }

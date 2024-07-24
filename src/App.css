@@ -1,9 +1,17 @@
-.section-style {
-  background-color: rgb(235, 50, 50);
-  border: 5px solid black;
-  padding: 20px;
-  margin: 20px;
+.main-container {
   width: 100%;
+  border: 2px solid black;
   height: 500px;
-  box-sizing: border-box;
+}
+.parent-recommended {
+  width: 40%;
+  height: 300px;
+  margin: 50px;
+  border: 2px solid black;
+  position: relative;
+}
+.p-tag {
+  position: absolute;
+  top: 0;
+  right: 30px;
 }
