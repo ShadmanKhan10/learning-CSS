@@ -5,7 +5,7 @@ function App() {
   return (
     <>
       <section className="section-style">
-        <h1>Learning CSS</h1>
+        <h1>Learning CSs</h1>
       </section>
     </>
   );
